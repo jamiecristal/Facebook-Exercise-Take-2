@@ -1,8 +1,9 @@
-Facebook-Exercise-Take-2
+Facebook-Exercise
 ========================
-# FACEBOOK ASSIGNMENT!!
+# Facebook Assignment
 
 This is a demo application for Facebook mobile
+(Take 2 since my first attempt had a storyboard bug)
 
 Time spent: too long... 5 hours
 
